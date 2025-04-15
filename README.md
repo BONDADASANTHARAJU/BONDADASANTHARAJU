@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm BONDADASANTHARAJU</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/male-programmer-8928572_7322310">
+<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/male-programmer-8928572_7322310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bondadasantharaju&label=Profile%20views&color=0e75b6&style=flat" alt="bondadasantharaju" /> </p>
 
